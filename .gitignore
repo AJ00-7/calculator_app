@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+calculator_env/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Streamlit cache and temporary files (if any)
+.streamlit/
+
+# Ignore Jupyter notebook configuration files
+.ipynb_checkpoints/
